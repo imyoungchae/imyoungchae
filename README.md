@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imyoungchae&layout=compact&theme=gruvbox)
 
+ <div align><h3>Contect</h3></div>
+ <div align> 
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imyoungchaeson@gmail.com)](mailto:imyoungchaeson@gmail.com)
+ </div>
+
 <div align><h3>📚 MY STACKS</h3></div>
 <div align> 
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -27,7 +32,4 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <br>
  </div>
- <div align><h3>Contect</h3></div>
- <div align> 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imyoungchaeson@gmail.com)](mailto:imyoungchaeson@gmail.com)
- </div>
+
