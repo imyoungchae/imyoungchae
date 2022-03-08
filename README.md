@@ -27,4 +27,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <br>
  </div>
+ <div align><h3>Contect</h3></div>
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imyoungchaeson@gmail.com)](mailto:imyoungchaeson@gmail.com)
 
