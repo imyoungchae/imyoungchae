@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![imyoungchae's github stats](https://github-readme-stats.vercel.app/api?username=imyoungchae&show_icons=true)
 
 <div align=center><h1>📚 MY STACKS</h1></div>
 <div align=center> 
