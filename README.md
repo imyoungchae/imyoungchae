@@ -24,6 +24,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <br>
-<h1>😉 IMYOUNGCHAE</h1></div>
+<h1>😉 IMYOUNGCHAE</h1>
 ![imyoungchae's github stats](https://github-readme-stats.vercel.app/api?username=imyoungchae&show_icons=true)
 </div>
