@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![imyoungchae's github stats](https://github-readme-stats.vercel.app/api?username=imyoungchae&show_icons=true)
 
 <div align=center><h1>📚 MY STACKS</h1></div>
 <div align=center> 
@@ -25,8 +24,10 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <br>
+ </div>
+
  
-<h1>😉 IMYOUNGCHAE</h1>
+<h1>😉 IMYOUNGCHAE</h1><div align=center> 
 ![imyoungchae's github stats](https://github-readme-stats.vercel.app/api?username=imyoungchae&show_icons=true)
 
 </div>
