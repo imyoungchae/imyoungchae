@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/{python}-{blue}?style={plastic}&logo={python}&logoColor={white}"/>
+<img src="https://img.shields.io/badge/python-#제외색상번호?style=for-the-badge&logo=python&logoColor=white">
 
-출처: https://eunhee-programming.tistory.com/239 [코드짜는 문과녀]
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imyoungchaeson@gmail.com)](mailto:imyoungchaeson@gmail.com)
+
