@@ -28,5 +28,6 @@ Here are some ideas to get you started:
   <br>
  </div>
  <div align><h3>Contect</h3></div>
+ <div align> 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imyoungchaeson@gmail.com)](mailto:imyoungchaeson@gmail.com)
-
+ </div>
