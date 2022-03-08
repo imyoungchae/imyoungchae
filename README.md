@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Imyoungchae's GitHub stats](https://github-readme-stats.vercel.app/api?username=imyoungchaey&show_icons=true&theme=cobalt) 
 
 <div align=center><h1>📚 MY STACKS</h1></div>
 <div align=center> 
@@ -26,8 +26,3 @@ Here are some ideas to get you started:
   <br>
  </div>
 
- 
-<h1>😉 IMYOUNGCHAE</h1><div align=center> 
-![imyoungchae's github stats](https://github-readme-stats.vercel.app/api?username=imyoungchae&show_icons=true)
-
-</div>
