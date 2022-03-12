@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Imyoungchae's GitHub stats](https://github-readme-stats.vercel.app/api?username=imyoungchae&show_icons=true&theme=cobalt) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imyoungchae&layout=compact&theme=gruvbox)
 
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imyoungchaeson@gmail.com)](mailto:imyoungchaeson@gmail.com)
